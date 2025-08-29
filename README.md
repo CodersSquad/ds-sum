@@ -17,7 +17,7 @@ Function's name and definition
 
 Work in the [`sum.cpp`](./sum.cpp) file
 
-You must add a function's execution time measurement, make sure you report the result and the execution time in the following format:
+You must add each function's execution time measurement, make sure to report the result and the execution time in the following format:
 
 ```
 # Iterative Sum with n = 3
